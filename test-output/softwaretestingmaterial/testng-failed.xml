@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [softwaretestingmaterial]">
+  <test thread-count="5" name="testngTest(failed)">
+    <classes>
+      <class name="com.mitrais.selenium.test.EditProfile">
+        <methods>
+          <include name="EditProfile"/>
+        </methods>
+      </class> <!-- com.mitrais.selenium.test.EditProfile -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [softwaretestingmaterial] -->

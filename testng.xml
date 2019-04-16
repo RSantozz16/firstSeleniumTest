@@ -1,0 +1,8 @@
+<suite name="MitraisCarrotAllTest">
+    <test name="Using TestNG">
+        <classes>
+            <class name="com.mitrais.selenium.test.EditProfile" />
+            <!--<class name="com.mitrais.selenium.test.EditStaffGroupName" />-->
+        </classes>
+    </test>
+</suite>

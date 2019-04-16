@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser opened now <br>]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to Login page <br>]]>
+    </line>
+    <line>
+      <![CDATA[Inputed restu as username <br>]]>
+    </line>
+    <line>
+      <![CDATA[Inputed oke as password <br>]]>
+    </line>
+    <line>
+      <![CDATA[Click Login button <br>]]>
+    </line>
+    <line>
+      <![CDATA[Click edit profile button <br>]]>
+    </line>
+    <line>
+      <![CDATA[put Restu Ganteng in name box <br>]]>
+    </line>
+    <line>
+      <![CDATA[put Jl. Raya Pemogan in address <br>]]>
+    </line>
+    <line>
+      <![CDATA[put Restu.Ganteng@mitrais.com in email <br>]]>
+    </line>
+    <line>
+      <![CDATA[Click save button <br>]]>
+    </line>
+    <line>
+      <![CDATA[Click Yes button <br>]]>
+    </line>
+    <line>
+      <![CDATA[Click OK button <br>]]>
+    </line>
+    <line>
+      <![CDATA[Click logut button <br>]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser <br>]]>
+    </line>
+    <line>
+      <![CDATA[Test finished! <br>]]>
+    </line>
+  </reporter-output>
+  <suite name="softwaretestingmaterial" duration-ms="50150" started-at="2019-04-15T02:40:10Z" finished-at="2019-04-15T02:41:00Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="50150" started-at="2019-04-15T02:40:10Z" finished-at="2019-04-15T02:41:00Z">
+      <class name="com.mitrais.selenium.test.EditProfile">
+        <test-method status="PASS" signature="EditProfile()[pri:0, instance:com.mitrais.selenium.test.EditProfile@1888ff2c]" name="EditProfile" duration-ms="50113" started-at="2019-04-15T02:40:10Z" finished-at="2019-04-15T02:41:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser opened now <br>]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to Login page <br>]]>
+            </line>
+            <line>
+              <![CDATA[Inputed restu as username <br>]]>
+            </line>
+            <line>
+              <![CDATA[Inputed oke as password <br>]]>
+            </line>
+            <line>
+              <![CDATA[Click Login button <br>]]>
+            </line>
+            <line>
+              <![CDATA[Click edit profile button <br>]]>
+            </line>
+            <line>
+              <![CDATA[put Restu Ganteng in name box <br>]]>
+            </line>
+            <line>
+              <![CDATA[put Jl. Raya Pemogan in address <br>]]>
+            </line>
+            <line>
+              <![CDATA[put Restu.Ganteng@mitrais.com in email <br>]]>
+            </line>
+            <line>
+              <![CDATA[Click save button <br>]]>
+            </line>
+            <line>
+              <![CDATA[Click Yes button <br>]]>
+            </line>
+            <line>
+              <![CDATA[Click OK button <br>]]>
+            </line>
+            <line>
+              <![CDATA[Click logut button <br>]]>
+            </line>
+            <line>
+              <![CDATA[Closing browser <br>]]>
+            </line>
+            <line>
+              <![CDATA[Test finished! <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EditProfile -->
+      </class> <!-- com.mitrais.selenium.test.EditProfile -->
+    </test> <!-- testngTest -->
+  </suite> <!-- softwaretestingmaterial -->
+</testng-results>
